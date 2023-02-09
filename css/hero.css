@@ -4,12 +4,12 @@ body{
     font-size: 20px;
 }
 
-header{background-color: limegreen;
+header{
+	background-color: limegreen;
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
-
-}
+ }
 h1, h2{
    font-family: 'Roboto', sans-serif;
 }
